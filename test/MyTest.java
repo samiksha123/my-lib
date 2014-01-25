@@ -8,6 +8,6 @@ import static org.junit.Assert.assertEquals;
 public class MyTest {
     @Test
     public  void hello(){
-        assertEquals(1,1);
+        assertEquals(2,2);
     }
 }
